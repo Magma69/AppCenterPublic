@@ -6,6 +6,7 @@
         "applicants":{
             "526790971145453578":{
                 "internalId":"526790971145453578",
+                "reader": "796546458240679980",
                 "status":"Results Ready",
                 "hasPassed":true,
                 "departmentReview":{
@@ -29,6 +30,7 @@
             },
             "796546458240679980":{
                 "internalId":"796546458240679980",
+                "reader": "796546458240679980",
                 "status":"Results Ready",
                 "hasPassed":true,
                 "departmentReview":false,
@@ -44,6 +46,7 @@
             },
             "666590664649211906":{
                 "internalId":"666590664649211906",
+                "reader": "796546458240679980",
                 "status":"Results Ready",
                 "hasPassed":false,
                 "departmentReview": false,
@@ -59,6 +62,7 @@
             },
             "529457446259916801":{
                 "internalId":"529457446259916801",
+                "reader": "796546458240679980",
                 "status":"Results Ready",
                 "hasPassed":false,
                 "departmentReview":false,
