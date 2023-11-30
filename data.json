@@ -1,1 +1,39 @@
-{"betaTesters":{"isOpen":true,"hasResults":false,"isProcessed":false,"applicants":{}}},"SSS":{"isOpen":false,"hasResults":false,"applicants":{}},"SSPTW":{"isOpen":false,"hasResults":false,"applicants":{}},"SSPO":{"isOpen":false,"hasResults":false,"applicants":{}},"SSD":{"isOpen":true,"hasResults":false,"applicants":{}},"SG":{"isOpen":false,"hasResults":false,"applicants":{}},"OtherData":{"readerList":["796546458240679980","526790971145453578"]}}
+{
+    "betaTesters":{
+        "isOpen":true,
+        "hasResults":false,
+        "isProcessed":false,
+        "applicants":{}
+    },
+    "SSS":{
+        "isOpen":false,
+        "hasResults":false,
+        "applicants":{}
+    },
+    "SSPTW":{
+        "isOpen":false,
+        "hasResults":false,
+        "applicants":{}
+    },
+    "SSPO":{
+        "isOpen":false,
+        "hasResults":false,
+        "applicants":{}
+    },
+    "SSD":{
+        "isOpen":false,
+        "hasResults":false,
+        "applicants":{}
+    },
+    "SG":{
+        "isOpen":false,
+        "hasResults":false,
+        "applicants":{}
+    },
+    "OtherData": {
+        "readerList": [
+            "796546458240679980",
+            "526790971145453578"
+        ]
+    }
+}
