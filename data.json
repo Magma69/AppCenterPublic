@@ -8,18 +8,10 @@
                 "internalId":"526790971145453578",
                 "reader": "796546458240679980",
                 "status":"Results Ready",
-                "hasPassed":true,
-                "departmentReview":{
-                    "reviewCompleate":true,
-                    "requiresManager":false,
-                    "voided":{
-                        "readerVoid":true,
-                        "theoryVoid":false
-                    },
-                    "feedback":"This is some feedback!"
-                },
-                "hasFeedback":true,
-                "feedback":"This is some feedback!",
+                "hasPassed":false,
+                "departmentReview":false,
+                "hasFeedback":false,
+                "feedback":"",
                 "questions":{
                     "theoryScore":"2/2",
                     "theoryPassed":true,
@@ -32,10 +24,10 @@
                 "internalId":"796546458240679980",
                 "reader": "796546458240679980",
                 "status":"Results Ready",
-                "hasPassed":true,
+                "hasPassed":false,
                 "departmentReview":false,
-                "hasFeedback":true,
-                "feedback":"I love giving feedback :)",
+                "hasFeedback":false,
+                "feedback":"",
                 "questions":{
                     "theoryScore":"2/2",
                     "theoryPassed":true,
@@ -49,9 +41,9 @@
                 "reader": "796546458240679980",
                 "status":"Results Ready",
                 "hasPassed":false,
-                "departmentReview": false,
+                "departmentReview":false,
                 "hasFeedback":false,
-                "feedback":"This is some feedback",
+                "feedback":"",
                 "questions":{
                     "theoryScore":"2/2",
                     "theoryPassed":true,
