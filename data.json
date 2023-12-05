@@ -75,7 +75,7 @@
                 "status":"Results Ready",
                 "hasPassed":false,
                 "departmentReview":false,
-                "hasFeedback":true,
+                "hasFeedback":false,
                 "feedback":"",
                 "questions":{
                     "theoryScore":"2/2",
