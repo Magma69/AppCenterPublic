@@ -36,7 +36,7 @@
                 "hasPassed":false,
                 "departmentReview":{
                     "reviewCompleate": true,
-                    "requiresManager": false,
+                    "requiresManager": true,
                     "voided": {
                         "readerVoid": true,
                         "theoryVoid": false
@@ -61,6 +61,22 @@
                 "departmentReview":false,
                 "hasFeedback":true,
                 "feedback":"This is some feedback!",
+                "questions":{
+                    "theoryScore":"2/2",
+                    "theoryPassed":true,
+                    "responce1":"Short Responce",
+                    "responce2":"Short Responce",
+                    "responce3":"Short Responce"
+                }
+            },
+            "77777777777777777":{
+                "internalId":"666590664649211906",
+                "reader": "796546458240679980",
+                "status":"Results Ready",
+                "hasPassed":false,
+                "departmentReview":false,
+                "hasFeedback":true,
+                "feedback":"",
                 "questions":{
                     "theoryScore":"2/2",
                     "theoryPassed":true,
@@ -101,6 +117,7 @@
                     "responce3":"Short Responce"
                 }
             },
+            
             "529457446259916801":{
                 "internalId":"529457446259916801",
                 "reader": "796546458240679980",
