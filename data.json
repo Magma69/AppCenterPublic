@@ -161,7 +161,7 @@
         "applicants":{}
     },
     "SSD":{
-        "isOpen":true,
+        "isOpen":false,
         "hasResults":false,
         "applicants":{}
     },
