@@ -2,7 +2,7 @@
     "betaTesters":{
       "isOpen":false,
       "hasResults":false,
-      "isProcessed":false,
+      "isProcessed":true,
       "applicants":{
         "952230950463488030":{
           "internalId":"952230950463488030",
